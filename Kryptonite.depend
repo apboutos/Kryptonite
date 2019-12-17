@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1481636169 source:c:\users\exophrenik\documents\c++ projects\kryptonite\main.c
+	<stdio.h>
+	<stdlib.h>
+
